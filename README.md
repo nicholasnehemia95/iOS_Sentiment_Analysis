@@ -9,4 +9,6 @@ WebScrapingNotebookFinal.ipynb - code to gather and transform Reddit comments \
 WordCounts.ipynb - code to compile word count from all comments \
 df_comments_all.csv - comment data prior to transformation \
 SentimentAnalysis_Comments.csv - after transformation; file used in Tableau Workbook for commment analysis \
-SentimentAnalysis_WordCount.csv - file used in Tableau Workbook for word cloud analysis
+SentimentAnalysis_WordCount.csv - file used in Tableau Workbook for word cloud analysis \
+\
+Link to Tableau Dashboard visualizing results: https://public.tableau.com/views/DS5110SentimentAnalysis/iOSAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
